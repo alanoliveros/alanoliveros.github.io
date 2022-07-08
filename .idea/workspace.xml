@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="effe9cf6-9036-47ed-b489-e024effec5c4" name="Changes" comment="Changes a little">
+    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/alanoliveros.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alanoliveros.github.io.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +18,21 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Az2PIRzlzZMpj79EhYjc73utm5" />
+  <component name="ProjectId" id="2BbsrDbgnzcUfKZvhrec6wzGDWW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,12 +40,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/MattMatt/Documents/GitHub/alanoliveros.github.io&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MattMatt/Documents/GitHub/alanoliveros.github.io/fonts&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -56,70 +54,32 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MattMatt\Documents\GitHub\alanoliveros.github.io\fonts" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="effe9cf6-9036-47ed-b489-e024effec5c4" name="Changes" comment="" />
-      <created>1655998070878</created>
+      <changelist id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="" />
+      <created>1657186316082</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1655998070878</updated>
-      <workItem from="1655998073980" duration="2680000" />
-      <workItem from="1656001080845" duration="26000" />
-      <workItem from="1656001168791" duration="1676000" />
-      <workItem from="1656040751888" duration="461000" />
-      <workItem from="1656041823050" duration="1068000" />
-      <workItem from="1656778058850" duration="690000" />
-      <workItem from="1657173114612" duration="5055000" />
-      <workItem from="1657182619966" duration="678000" />
-      <workItem from="1657183322575" duration="153000" />
-      <workItem from="1657183520655" duration="217000" />
-      <workItem from="1657183761436" duration="129000" />
-      <workItem from="1657183914202" duration="784000" />
+      <updated>1657186316082</updated>
+      <workItem from="1657186322460" duration="949000" />
+      <workItem from="1657187949934" duration="98000" />
+      <workItem from="1657188066477" duration="497000" />
+      <workItem from="1657188580114" duration="14000" />
+      <workItem from="1657188608615" duration="5261000" />
+      <workItem from="1657196953294" duration="1324000" />
+      <workItem from="1657198764691" duration="1714000" />
+      <workItem from="1657200579404" duration="12000" />
+      <workItem from="1657200619621" duration="1520000" />
+      <workItem from="1657208356693" duration="2994000" />
+      <workItem from="1657249893549" duration="1555000" />
+      <workItem from="1657264149997" duration="594000" />
     </task>
-    <task id="LOCAL-00001" summary="Added Files">
-      <created>1655998780303</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1655998780303</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Changes Title">
-      <created>1656001350762</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1656001350762</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Changes Title">
-      <created>1656001478682</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1656001478682</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Changes Title to Alan Oliveros">
-      <created>1656002027831</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1656002027831</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Changes a little">
-      <created>1656002473044</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1656002473044</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Changes a little">
-      <created>1656002628967</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1656002628967</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,11 +96,8 @@
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Files" />
-    <MESSAGE value="Changes Title" />
-    <MESSAGE value="Changes Title to Alan Oliveros" />
-    <MESSAGE value="Changes a little" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes a little" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
