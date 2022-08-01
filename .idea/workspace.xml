@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="Change">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="Title Change">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +77,7 @@
       <workItem from="1657249893549" duration="1555000" />
       <workItem from="1657264149997" duration="1903000" />
       <workItem from="1657684840913" duration="67000" />
-      <workItem from="1659366256485" duration="46000" />
+      <workItem from="1659366256485" duration="176000" />
     </task>
     <task id="LOCAL-00001" summary="Change">
       <created>1657264809465</created>
@@ -87,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657264809465</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Title Change">
+      <created>1659366343396</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659366343396</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +112,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change" />
+    <MESSAGE value="Title Change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Title Change" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
