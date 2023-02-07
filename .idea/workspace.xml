@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="80 complete">
+    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="change address">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +160,35 @@
       <option name="project" value="LOCAL" />
       <updated>1675784286110</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="80 complete">
+      <created>1675784825011</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675784825011</updated>
+    </task>
+    <task id="LOCAL-00013" summary="80 complete">
+      <created>1675784962734</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675784962734</updated>
+    </task>
+    <task id="LOCAL-00014" summary="change address">
+      <created>1675785257684</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675785257684</updated>
+    </task>
+    <task id="LOCAL-00015" summary="change address">
+      <created>1675785259964</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675785259964</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +214,8 @@
     <MESSAGE value="updatee 7:30 pm" />
     <MESSAGE value="added social media link" />
     <MESSAGE value="80 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="80 complete" />
+    <MESSAGE value="change address" />
+    <option name="LAST_COMMIT_MESSAGE" value="change address" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
