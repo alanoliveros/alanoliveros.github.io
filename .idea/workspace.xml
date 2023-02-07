@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="updatee 7:30 pm">
+    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="added social media link">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675769408138</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added social media link">
+      <created>1675769712150</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675769712150</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +177,8 @@
     <MESSAGE value="Website Change v2" />
     <MESSAGE value="change title" />
     <MESSAGE value="updatee 7:30 pm" />
-    <option name="LAST_COMMIT_MESSAGE" value="updatee 7:30 pm" />
+    <MESSAGE value="added social media link" />
+    <option name="LAST_COMMIT_MESSAGE" value="added social media link" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
