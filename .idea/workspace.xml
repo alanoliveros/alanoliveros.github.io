@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="what do you think?">
+    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="change address">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -88,7 +87,11 @@
       <workItem from="1677919855367" duration="774000" />
       <workItem from="1677920677366" duration="83000" />
       <workItem from="1677920784716" duration="296000" />
-      <workItem from="1677927214463" duration="30000" />
+      <workItem from="1677927214463" duration="133000" />
+      <workItem from="1679668495919" duration="81000" />
+      <workItem from="1679668591982" duration="71000" />
+      <workItem from="1679668677604" duration="29000" />
+      <workItem from="1679668720404" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="Change">
       <created>1657264809465</created>
@@ -293,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677921008934</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="change address">
+      <created>1677927260191</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1677927260191</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,7 +329,6 @@
     <MESSAGE value="updatee 7:30 pm" />
     <MESSAGE value="added social media link" />
     <MESSAGE value="80 complete" />
-    <MESSAGE value="change address" />
     <MESSAGE value="added interest" />
     <MESSAGE value="almost done. only skill left" />
     <MESSAGE value="done... i think." />
@@ -328,7 +337,8 @@
     <MESSAGE value="change picture" />
     <MESSAGE value="change picture napud" />
     <MESSAGE value="what do you think?" />
-    <option name="LAST_COMMIT_MESSAGE" value="what do you think?" />
+    <MESSAGE value="change address" />
+    <option name="LAST_COMMIT_MESSAGE" value="change address" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
