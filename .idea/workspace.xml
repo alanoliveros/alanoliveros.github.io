@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="change address">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +30,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
   <component name="ProjectId" id="2BbsrDbgnzcUfKZvhrec6wzGDWW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,6 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Documents/GitHub/alanoliveros.github.io/assets/img&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -92,6 +95,14 @@
       <workItem from="1679668591982" duration="71000" />
       <workItem from="1679668677604" duration="29000" />
       <workItem from="1679668720404" duration="11000" />
+      <workItem from="1679700875545" duration="132000" />
+      <workItem from="1679701022343" duration="18000" />
+      <workItem from="1679701050513" duration="26000" />
+      <workItem from="1680015008260" duration="97000" />
+      <workItem from="1680680006398" duration="68000" />
+      <workItem from="1681441700321" duration="27000" />
+      <workItem from="1684075637161" duration="56000" />
+      <workItem from="1690350745614" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="Change">
       <created>1657264809465</created>
