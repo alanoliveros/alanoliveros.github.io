@@ -4,9 +4,126 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="change address">
+    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="wehh">
+      <change afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/basic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/blogs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demos/demo-1-colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demos/demo-2-colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demos/demo-3-colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demos/demo-4-colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demos/demo-5-colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demos/demo-6-colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demos/demo-7-colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demos/demo-8-colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/gradient.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/ionicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/new-skin/classic-skin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/new-skin/new-skin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/rtl-new.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/template-colors/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/template-colors/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/template-colors/orange.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/template-colors/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/template-colors/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/template-colors/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/template-dark/dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/5R-91.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_0065_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_0278_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/android-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blog/blog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blog/blog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blog/blog3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clients/client_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clients/client_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clients/client_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clients/client_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/favicons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lwork1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lwork2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lwork3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lwork4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lwork5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lwork6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/man1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/man5_big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mwork1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mwork2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mwork3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mwork4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mwork5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mwork6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profile2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profile3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profile4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profile5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profile6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profile7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/quote.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/quote_d.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twork1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twork2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twork3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twork4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twork5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twork6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/works/work1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/works/work2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/works/work3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/works/work4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/works/work5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/works/work6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/works/work7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/works/work8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/wwork1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/wwork2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/wwork3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/wwork4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/wwork5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/wwork6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/imagesloaded.pkgd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/isotope.pkgd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.slimscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/typed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less/basic.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less/blogs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less/layout.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less/setting.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailer/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailer/OAuth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailer/PHPMailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailer/POP3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailer/SMTP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailer/feedback.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailer/form_setting.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/profile2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/profile_available.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/profile_v2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/whatdoyouthink.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/IMG_20230221_191552.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,30 +158,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Documents/GitHub/alanoliveros.github.io/assets/img&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/user/Documents/GitHub/alanoliveros.github.io",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io" />
+      <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io\images" />
       <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io\assets\img" />
       <recent name="C:\Users\MattMatt\Documents\GitHub\alanoliveros.github.io\fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io\images" />
       <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io" />
     </key>
   </component>
@@ -110,7 +230,11 @@
       <workItem from="1690350745614" duration="9000" />
       <workItem from="1694082891791" duration="412000" />
       <workItem from="1694778630367" duration="35000" />
-      <workItem from="1694778689792" duration="635000" />
+      <workItem from="1694778689792" duration="1167000" />
+      <workItem from="1696347131562" duration="6000" />
+      <workItem from="1696347248762" duration="84000" />
+      <workItem from="1696347353298" duration="17000" />
+      <workItem from="1696347385457" duration="4343000" />
     </task>
     <task id="LOCAL-00001" summary="Change">
       <created>1657264809465</created>
@@ -322,7 +446,15 @@
       <option name="project" value="LOCAL" />
       <updated>1677927260191</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="wehh">
+      <option name="closed" value="true" />
+      <created>1694779392804</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1694779392805</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,7 +489,8 @@
     <MESSAGE value="change picture napud" />
     <MESSAGE value="what do you think?" />
     <MESSAGE value="change address" />
-    <option name="LAST_COMMIT_MESSAGE" value="change address" />
+    <MESSAGE value="wehh" />
+    <option name="LAST_COMMIT_MESSAGE" value="wehh" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
