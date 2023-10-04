@@ -243,7 +243,8 @@
 							<div class="col col-d-6 col-t-6 col-m-12 border-line-v">
 								<div class="info-list">
 									<ul>
-										<li><strong>Age<!-- . . . . .--></strong> 23</li>
+										<li><strong>Age<!-- . . . . .--></strong> <span id="age"></span></li>
+										<!--<li><strong>Age&lt;!&ndash; . . . . .&ndash;&gt;</strong> 23</li>-->
 										<li><strong>Residence<!-- . . . . .--></strong> Philippines</li>
 										<li><strong>Freelance<!-- . . . . .--></strong> Available</li>
 										<li><strong>Address<!-- . . . . .--></strong> Bukidnon, Philippines</li>
@@ -1381,6 +1382,8 @@
 						<div class="row">
 							<div class="col col-d-12 col-t-12 col-m-12 border-line-v">
 								<div class="contact_form">
+
+
 									<form id="cform" method="post">
 										<div class="row">
 											<div class="col col-d-6 col-t-6 col-m-12">
@@ -1406,6 +1409,9 @@
 											</a>
 										</div>
 									</form>
+
+
+
 									<div class="alert-success">
 										<p>Thanks, your message is sent successfully.</p>
 									</div>
@@ -1541,6 +1547,32 @@
 		Google map api
 	-->
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDEknghaabi3ZbQDeCRFiBEVHdfQ5qlT3Y"></script>
+
+	<script>
+		// Function to calculate age based on birthdate
+		function calculateAge(birthdate) {
+			const birthDate = new Date(birthdate);
+			const currentDate = new Date();
+
+			const age = currentDate.getFullYear() - birthDate.getFullYear();
+
+			// Adjust age if the birthdate has not occurred yet this year
+			if (currentDate.getMonth() < birthDate.getMonth() ||
+					(currentDate.getMonth() === birthDate.getMonth() && currentDate.getDate() < birthDate.getDate())) {
+				age--;
+			}
+
+			return age;
+		}
+
+		// Get your birthdate and calculate your age
+		const birthdate = "05/26/2000";
+		const age = calculateAge(birthdate);
+
+		// Display the age in the HTML
+		document.getElementById("age").textContent = age;
+	</script>
+
 
 </body>
 </html>
