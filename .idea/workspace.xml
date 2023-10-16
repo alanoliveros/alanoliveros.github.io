@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="resume changes">
+    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="ok">
+      <change afterPath="$PROJECT_DIR$/ALAN OLIVEROS - RESUME.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alan Oliveros Resume.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +52,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/user/Documents/GitHub/alanoliveros.github.io/images",
+    "last_opened_file_path": "C:/Users/user/Documents/GitHub/alanoliveros.github.io",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -62,8 +64,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io\images" />
       <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io" />
+      <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io\images" />
       <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io\images\favicons" />
       <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io\assets\img" />
       <recent name="C:\Users\MattMatt\Documents\GitHub\alanoliveros.github.io\fonts" />
@@ -127,7 +129,8 @@
       <workItem from="1696929517995" duration="504000" />
       <workItem from="1697198712934" duration="53000" />
       <workItem from="1697198814525" duration="234000" />
-      <workItem from="1697426238580" duration="1366000" />
+      <workItem from="1697426238580" duration="1607000" />
+      <workItem from="1697443481003" duration="74000" />
     </task>
     <task id="LOCAL-00001" summary="Change">
       <created>1657264809465</created>
@@ -403,7 +406,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697427099966</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="ok">
+      <option name="closed" value="true" />
+      <created>1697427628431</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1697427628431</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Change" />
     <MESSAGE value="Title Change" />
     <MESSAGE value="Website Change" />
     <MESSAGE value="Website Change v2" />
@@ -446,7 +456,8 @@
     <MESSAGE value="download cv" />
     <MESSAGE value="automate age, by input birthdate." />
     <MESSAGE value="resume changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="resume changes" />
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
