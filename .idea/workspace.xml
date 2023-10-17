@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="ok">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="changes in resume details" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,6 +127,7 @@
       <workItem from="1697426238580" duration="1607000" />
       <workItem from="1697443481003" duration="109000" />
       <workItem from="1697445860338" duration="672000" />
+      <workItem from="1697478150780" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="Change">
       <created>1657264809465</created>
@@ -428,7 +427,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697446123491</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="changes in resume details">
+      <option name="closed" value="true" />
+      <created>1697478237903</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1697478237903</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +453,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Website Change" />
     <MESSAGE value="Website Change v2" />
     <MESSAGE value="change title" />
     <MESSAGE value="updatee 7:30 pm" />
@@ -471,7 +477,8 @@
     <MESSAGE value="resume changes" />
     <MESSAGE value="NEW RESUME" />
     <MESSAGE value="ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+    <MESSAGE value="changes in resume details" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes in resume details" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
