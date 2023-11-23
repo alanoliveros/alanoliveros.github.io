@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="image change">
-      <change afterPath="$PROJECT_DIR$/Resume-Alan-Oliveros.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cameguin.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -51,7 +51,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/user/Documents/GitHub/alanoliveros.github.io",
+    "last_opened_file_path": "C:/Users/user/Documents/GitHub/alanoliveros.github.io/images",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -63,8 +63,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io" />
       <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io\images" />
+      <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io" />
       <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io\images\favicons" />
       <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io\assets\img" />
       <recent name="C:\Users\MattMatt\Documents\GitHub\alanoliveros.github.io\fonts" />
@@ -133,7 +133,7 @@
       <workItem from="1697445860338" duration="672000" />
       <workItem from="1697478150780" duration="105000" />
       <workItem from="1697535130059" duration="1093000" />
-      <workItem from="1700720548451" duration="2289000" />
+      <workItem from="1700720548451" duration="4776000" />
     </task>
     <task id="LOCAL-00001" summary="Change">
       <created>1657264809465</created>
@@ -465,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700721178575</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="image change">
+      <option name="closed" value="true" />
+      <created>1700723040761</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1700723040762</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
