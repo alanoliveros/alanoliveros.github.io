@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="okay">
+    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,7 +177,7 @@
       <workItem from="1706105205587" duration="90000" />
       <workItem from="1723745194457" duration="1808000" />
       <workItem from="1733106716663" duration="4238000" />
-      <workItem from="1733149382957" duration="3468000" />
+      <workItem from="1733149382957" duration="4717000" />
     </task>
     <task id="LOCAL-00001" summary="Change">
       <created>1657264809465</created>
@@ -390,14 +389,6 @@
       <option name="project" value="LOCAL" />
       <updated>1677927260191</updated>
     </task>
-    <task id="LOCAL-00041" summary="ok">
-      <option name="closed" value="true" />
-      <created>1697446123491</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1697446123491</updated>
-    </task>
     <task id="LOCAL-00042" summary="changes in resume details">
       <option name="closed" value="true" />
       <created>1697478237903</created>
@@ -542,7 +533,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733152577112</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="test">
+      <option name="closed" value="true" />
+      <created>1733152917147</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1733152917148</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,7 +559,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="change address" />
     <MESSAGE value="wehh" />
     <MESSAGE value="utro nasad." />
     <MESSAGE value="bug - fix" />
@@ -585,7 +583,8 @@
     <MESSAGE value="goo" />
     <MESSAGE value="try" />
     <MESSAGE value="okay" />
-    <option name="LAST_COMMIT_MESSAGE" value="okay" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
