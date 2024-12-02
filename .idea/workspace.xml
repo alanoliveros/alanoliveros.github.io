@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="DELETE - mag himu utro.">
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="coming soon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +153,7 @@
       <workItem from="1697535130059" duration="1093000" />
       <workItem from="1700720548451" duration="5640000" />
       <workItem from="1706105205587" duration="90000" />
-      <workItem from="1723745194457" duration="1073000" />
+      <workItem from="1723745194457" duration="1808000" />
     </task>
     <task id="LOCAL-00001" summary="Change">
       <created>1657264809465</created>
@@ -368,14 +365,6 @@
       <option name="project" value="LOCAL" />
       <updated>1677927260191</updated>
     </task>
-    <task id="LOCAL-00032" summary="utro nasad.">
-      <option name="closed" value="true" />
-      <created>1696352169174</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1696352169174</updated>
-    </task>
     <task id="LOCAL-00033" summary="bug - fix">
       <option name="closed" value="true" />
       <created>1696382867154</created>
@@ -520,7 +509,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723745720708</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="coming soon">
+      <option name="closed" value="true" />
+      <created>1723746400991</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1723746400991</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,7 +535,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="almost done. only skill left" />
     <MESSAGE value="done... i think." />
     <MESSAGE value="change picture v2" />
     <MESSAGE value="change picture, what do you think?" />
@@ -563,7 +559,8 @@
     <MESSAGE value="apil ni" />
     <MESSAGE value="ok change" />
     <MESSAGE value="DELETE - mag himu utro." />
-    <option name="LAST_COMMIT_MESSAGE" value="DELETE - mag himu utro." />
+    <MESSAGE value="coming soon" />
+    <option name="LAST_COMMIT_MESSAGE" value="coming soon" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
