@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/reset.css" afterDir="false" />
+    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="okay">
+      <change afterPath="$PROJECT_DIR$/src/styles/reset-v2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/reset.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,34 +58,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Documents/GitHub/alanoliveros.github.io/images&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;discord-application&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\user\\Documents\\GitHub\\alanoliveros.github.io\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/user/Documents/GitHub/alanoliveros.github.io/src/styles",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "settings.editor.selected.configurable": "discord-application",
+    "ts.external.directory.path": "C:\\Users\\user\\Documents\\GitHub\\alanoliveros.github.io\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io\src\styles" />
       <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io\images" />
       <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io" />
       <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io\images\favicons" />
       <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io\assets\img" />
-      <recent name="C:\Users\MattMatt\Documents\GitHub\alanoliveros.github.io\fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\Documents\GitHub\alanoliveros.github.io\images" />
@@ -181,7 +178,8 @@
       <workItem from="1700720548451" duration="5640000" />
       <workItem from="1706105205587" duration="90000" />
       <workItem from="1723745194457" duration="1808000" />
-      <workItem from="1733106716663" duration="4029000" />
+      <workItem from="1733106716663" duration="4238000" />
+      <workItem from="1733149382957" duration="717000" />
     </task>
     <task id="LOCAL-00001" summary="Change">
       <created>1657264809465</created>
@@ -393,14 +391,6 @@
       <option name="project" value="LOCAL" />
       <updated>1677927260191</updated>
     </task>
-    <task id="LOCAL-00035" summary="map">
-      <option name="closed" value="true" />
-      <created>1696387500962</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1696387500962</updated>
-    </task>
     <task id="LOCAL-00036" summary="download cv">
       <option name="closed" value="true" />
       <created>1696391935135</created>
@@ -545,7 +535,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733110154325</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="okay">
+      <option name="closed" value="true" />
+      <created>1733112412502</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1733112412504</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="change picture, what do you think?" />
     <MESSAGE value="change picture" />
     <MESSAGE value="change picture napud" />
     <MESSAGE value="what do you think?" />
@@ -588,7 +585,8 @@
     <MESSAGE value="coming soon" />
     <MESSAGE value="hello, delete haha" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="okay" />
+    <option name="LAST_COMMIT_MESSAGE" value="okay" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
