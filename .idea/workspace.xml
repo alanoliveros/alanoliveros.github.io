@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="okay" />
+    <list default="true" id="df009bd7-da6a-4a05-8915-ede9e364434a" name="Changes" comment="saving">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/deploy.yml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +190,7 @@
       <workItem from="1706105205587" duration="90000" />
       <workItem from="1723745194457" duration="1808000" />
       <workItem from="1733106716663" duration="4238000" />
-      <workItem from="1733149382957" duration="5744000" />
+      <workItem from="1733149382957" duration="6201000" />
     </task>
     <task id="LOCAL-00001" summary="Change">
       <created>1657264809465</created>
@@ -386,22 +402,6 @@
       <option name="project" value="LOCAL" />
       <updated>1677927260191</updated>
     </task>
-    <task id="LOCAL-00044" summary="update">
-      <option name="closed" value="true" />
-      <created>1697535623857</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1697535623857</updated>
-    </task>
-    <task id="LOCAL-00045" summary="image change">
-      <option name="closed" value="true" />
-      <created>1700721178573</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1700721178575</updated>
-    </task>
     <task id="LOCAL-00046" summary="image change">
       <option name="closed" value="true" />
       <created>1700723040761</created>
@@ -538,7 +538,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733154907586</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="try">
+      <option name="closed" value="true" />
+      <created>1733155333845</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1733155333846</updated>
+    </task>
+    <task id="LOCAL-00064" summary="saving">
+      <option name="closed" value="true" />
+      <created>1733155527590</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1733155527590</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="wehh" />
     <MESSAGE value="utro nasad." />
     <MESSAGE value="bug - fix" />
     <MESSAGE value="oi" />
@@ -578,10 +593,11 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="okays" />
     <MESSAGE value="goo" />
-    <MESSAGE value="try" />
     <MESSAGE value="test" />
     <MESSAGE value="okay" />
-    <option name="LAST_COMMIT_MESSAGE" value="okay" />
+    <MESSAGE value="try" />
+    <MESSAGE value="saving" />
+    <option name="LAST_COMMIT_MESSAGE" value="saving" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
