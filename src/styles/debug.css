@@ -1,0 +1,61 @@
+/*
+!* Debugging styles *!
+* {
+    outline: 1px solid rgba(255, 0, 0, 0.5); !* Adds red outlines to all elements *!
+    box-sizing: border-box; !* Ensures padding and border are within width and height *!
+}
+
+body {
+    background-color: #f8f9fa; !* Light background for contrast *!
+}
+
+img, svg {
+    outline: 1px solid rgba(0, 0, 255, 0.5); !* Blue outline for images *!
+}
+
+.container, .wrapper {
+    outline: 2px dashed rgba(0, 255, 0, 0.5); !* Green dashed border for main containers *!
+    !*padding: 10px;*!
+}
+
+button, a {
+    outline: 2px dotted #ffa500; !* Orange dotted outline for buttons and links *!
+}
+
+h1, h2, h3, h4, h5, h6 {
+    background-color: rgba(255, 255, 0, 0.2); !* Light yellow background for headers *!
+}
+
+p, span, li {
+    background-color: rgba(0, 255, 255, 0.2); !* Light cyan background for text *!
+}
+
+!* Grid and flex debug *!
+.flex, .grid {
+    outline: 1px solid #00f; !* Blue outline for flex and grid containers *!
+}
+
+.flex > * {
+    outline: 1px dashed #0f0; !* Green dashed outline for flex items *!
+}
+
+.grid > * {
+    outline: 1px dashed #f00; !* Red dashed outline for grid items *!
+}
+
+
+!* Hover effect *!
+
+.container:hover,
+.wrapper:hover,
+button:hover,
+a:hover,
+h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover,
+p:hover, span:hover, li:hover,
+img:hover, svg:hover {
+    outline: 2px solid rgba(255, 0, 255, 0.8); !* Purple outline on hover *!
+    background-color: rgba(255, 255, 0, 0.1); !* Light yellow background on hover *!
+    !*transform: scale(1.02); !* Slightly enlarges the element on hover *!*!
+    transition: transform 0.1s ease-in-out, outline 0.1s ease-in-out, background-color 0.1s ease-in-out;
+}
+*/
