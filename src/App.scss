@@ -1,12 +1,15 @@
+@use './styles/colors' as *;
+
+
 body {
+  color: theme-color(color-white);
+  background-color: theme-color(color-secondary);
   padding: 0.5rem;
 
   @media (min-width: 768px) {
     padding: 1rem;
   }
 
-
-  background-color: aliceblue;
 }
 
 
@@ -17,9 +20,10 @@ body {
         "header"
         "main-content"
         "footer";
-  min-height: 100vh;
+  min-height: 400vh;
 
-  background-color: white;
+  background-color: theme-color(color-primary);
+
 }
 
 header {

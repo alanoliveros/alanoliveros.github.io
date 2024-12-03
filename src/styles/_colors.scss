@@ -1,0 +1,19 @@
+$default-theme: (
+        color-primary: #f40c3f,
+        color-secondary: #160000,
+        color-shadow: #540000,
+        color-white: #fff0eb
+);
+
+$contrasted-theme: (
+        color-primary: #fff2ed,
+        color-secondary: #160000,
+        color-shadow: #4d4040,
+        color-white: #fff0eb
+);
+
+$current-theme: $default-theme;
+
+@function theme-color($color-name) {
+  @return map-get($current-theme, $color-name);
+}
