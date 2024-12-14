@@ -2,42 +2,83 @@
 
 
 body {
-  color: theme-color(color-white);
-  background-color: theme-color(color-secondary);
+  color: black;
+  background-color: bisque;
   padding: 0.5rem;
 
-  @media (min-width: 768px) {
+  @media (min-width: 48rem) {
     padding: 1rem;
   }
-
 }
-
 
 .app {
   display: grid;
+
+  background-color: white;
   grid-template-rows: auto 1fr auto;
   grid-template-areas:
-        "header"
-        "main-content"
-        "footer";
-  min-height: 400vh;
+    "header"
+    "main-content"
+    "footer";
 
-  background-color: theme-color(color-primary);
+  grid-template-columns: 1fr;
+  gap: 0.5rem;
 
+  min-height: calc(100svh - 1rem);
+
+
+
+  @media screen and (min-width: 48rem) {
+    grid-template-columns: repeat(6, 1fr);
+    min-height: calc(100svh - 2rem);
+    gap: 1rem;
+  }
+
+  @media screen and (min-width: 1024px) {
+    grid-template-columns: repeat(12, 1fr);
+  }
 }
 
 header {
   grid-area: header;
   text-align: center;
-}
+  background-color: lightgoldenrodyellow;
 
+  @media screen and (min-width: 768px) {
+    grid-column: span 6;
+  }
+
+  @media screen and (min-width: 1024px) {
+    grid-column: span 12;
+  }
+}
 
 .main-content {
   grid-area: main-content;
+  background-color: lightcoral;
   text-align: center;
+  margin: 0 auto;
+  width: 100%;
+
+  @media screen and (min-width: 768px) {
+    grid-column: 2 / span 4;
+  }
+
+  @media screen and (min-width: 1024px) {
+    grid-column: 3 / span 8;
+  }
 }
 
 footer {
   grid-area: footer;
   text-align: center;
+  background-color: lightskyblue;
+
+  @media screen and (min-width: 768px) {
+    grid-column: span 6;
+  }
+
+  @media screen and (min-width: 1024px) {
+    grid-column: span 12;
+  }
 }

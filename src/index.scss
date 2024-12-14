@@ -1,25 +1,30 @@
 @use './styles/colors' as *;
 
 body {
-  font-family: 'DM Sans', sans-serif;
+  //font-family: 'DM Sans', sans-serif;
+  font-family: "Outfit", serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 
 
-::-webkit-scrollbar {
-  width: 1rem;
-}
-
-::-webkit-scrollbar-track {
-  background: theme-color(color-secondary);
-}
-
-::-webkit-scrollbar-thumb {
-  background: theme-color(color-primary);
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: theme-color(color-white);
-}
+//::-webkit-scrollbar {
+//  width: 0.5rem;
+//
+//  @media screen and (min-width: 768px){
+//    width: 1rem;
+//  }
+//}
+//
+//::-webkit-scrollbar-track {
+//  background: theme-color(color-secondary);
+//}
+//
+//::-webkit-scrollbar-thumb {
+//  background: theme-color(color-primary);
+//}
+//
+//::-webkit-scrollbar-thumb:hover {
+//  background: theme-color(color-white);
+//}
