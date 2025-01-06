@@ -49,8 +49,6 @@ header {
 
   @media screen and (min-width: 1024px) {
     //grid-column: span 12;
-
-    height: 80px;
   }
 }
 
@@ -85,6 +83,10 @@ footer {
   }
 }
 
+header, footer {
+  height: 80px;
+}
+
 /*------------------------------------*\
   #GENERAL-STYLE
 \*------------------------------------*/
@@ -108,7 +110,6 @@ header {
   align-items: center;
   justify-content: space-between;
   padding-inline: 1rem;
-
 
   .logo {
     font-size: 2rem;
