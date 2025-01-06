@@ -85,10 +85,79 @@ footer {
   }
 }
 
+/*------------------------------------*\
+  #GENERAL-STYLE
+\*------------------------------------*/
 
 
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
 
 
 /*------------------------------------*\
-  #SECTION-TITLE
+  #HEADER
 \*------------------------------------*/
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-inline: 1rem;
+
+
+  .logo {
+    font-size: 2rem;
+    font-weight: 600;
+  }
+
+  nav {
+    ul {
+      display: flex;
+      font-size: 1.25rem;
+      gap: 3rem;
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
