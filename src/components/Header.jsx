@@ -1,7 +1,7 @@
 function Header() {
     return (
         <header>
-            <div className="logo">Alan Gwapo</div>
+            <div className="logo">Alan—Gwapo!</div>
             <nav>
                 <ul>
                     <li>Home</li>
