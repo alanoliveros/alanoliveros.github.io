@@ -9,6 +9,7 @@ function App() {
             <Header/>
             <main className="main-content">
                 <h1>MAIN</h1>
+
             </main>
             <Footer/>
         </div>
