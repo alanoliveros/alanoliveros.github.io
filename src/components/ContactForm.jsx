@@ -17,9 +17,7 @@ const ContactForm = () => {
     const handleSubmit = (e) => {
         e.preventDefault();
 
-        const preFilledURL = `${googleFormURL}?entry.2005620554=${encodeURIComponent(
-            formData.name
-        )}&entry.1166974658=${encodeURIComponent(formData.phone)}`;
+        const preFilledURL = `${googleFormURL}?entry.2005620554=${encodeURIComponent(formData.name)}&entry.1166974658=${encodeURIComponent(formData.phone)}`;
 
         window.open(preFilledURL, "_blank");
     };
